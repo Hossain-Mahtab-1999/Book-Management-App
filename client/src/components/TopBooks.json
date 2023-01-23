@@ -1,0 +1,63 @@
+[
+    {
+       "id":1,
+       "title":"Ami topu",
+       "cover":"https://bdebooks.com/wp-content/uploads/2017/10/Ami-Topu-By-Muhammad-Zafar-Iqbal-185x265.jpg",
+       "price":15
+    },
+    {
+       "id":2,
+       "title":"Ratuler Din-Ratri",
+       "cover":"https://bdebooks.com/wp-content/uploads/2017/10/imgrok0610_9752.gif",
+       "price":15
+    },
+    {
+       "id":3,
+       "title":"Aj Himur Biye",
+       "cover":"https://bdebooks.com/wp-content/uploads/2017/06/3922855.jpg",
+       "price":15
+    },
+    {
+      "id":4,
+      "title":"Ebong Himu",
+      "cover":"https://4.bp.blogspot.com/-SfUfoGjDNr0/VhktwiEbKQI/AAAAAAAAISI/F7Ltn5-iI6A/s1600/ebong%2Bhimu%2Bby%2BHumayun%2BAhmed.jpg",
+      "price":15
+   },
+   {
+      "id":5,
+      "title":"Bhoot Shomogro",
+      "cover":"https://static-01.daraz.com.bd/p/22863c9fec54ea5ecd5f2d6ac17bf221.jpg",
+      "price":15
+   },
+   {
+      "id":6,
+      "title":"Ami topu",
+      "cover":"https://bdebooks.com/wp-content/uploads/2017/10/Ami-Topu-By-Muhammad-Zafar-Iqbal-185x265.jpg",
+      "price":15
+   },
+   {
+      "id":7,
+      "title":"Ratuler Din-Ratri",
+      "cover":"https://bdebooks.com/wp-content/uploads/2017/10/imgrok0610_9752.gif",
+      "price":15
+   },
+   {
+      "id":8,
+      "title":"Aj Himur Biye",
+      "cover":"https://bdebooks.com/wp-content/uploads/2017/06/3922855.jpg",
+      "price":15
+   },
+   {
+     "id":9,
+     "title":"Ebong Himu",
+     "cover":"https://4.bp.blogspot.com/-SfUfoGjDNr0/VhktwiEbKQI/AAAAAAAAISI/F7Ltn5-iI6A/s1600/ebong%2Bhimu%2Bby%2BHumayun%2BAhmed.jpg",
+     "price":15
+  },
+  {
+     "id":10,
+     "title":"Bhoot Shomogro",
+     "cover":"https://static-01.daraz.com.bd/p/22863c9fec54ea5ecd5f2d6ac17bf221.jpg",
+     "price":15
+  }
+
+ ]
